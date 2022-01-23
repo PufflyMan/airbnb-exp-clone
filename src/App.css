@@ -5,3 +5,9 @@
 body {
   margin: 0;
 }
+
+nav {
+  height: 70px;
+  display: flex;
+  padding: 20px 36px;
+}
