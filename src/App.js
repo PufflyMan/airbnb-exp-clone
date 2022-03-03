@@ -2,8 +2,8 @@ import './App.css';
 import Navbar from './Navbar.js';
 import Hero from './Hero';
 import Card from './Card';
-import img from './images/image12.png';
 import data from './data';
+
 
 
 function App() {

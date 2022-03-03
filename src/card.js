@@ -1,6 +1,5 @@
 import React from "react";
 import imgstar from './images/star1.png';
-import data from "./data";
 
 export default function Card(props) {
     return (
