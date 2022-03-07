@@ -1,5 +1,5 @@
 import React from "react";
-import imgstar from './images/star1.png';
+import imgstar from '../src/assets/star1.png';
 
 export default function Card(props) {
     return (
